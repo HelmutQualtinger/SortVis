@@ -234,6 +234,8 @@
 
     .bar {
       flex: 1;
+      height: 100%;
+      transform-origin: bottom center;
       border-radius: 2px 2px 0 0;
       transition: background-color .08s;
       min-width: 2px;
@@ -447,16 +449,14 @@ function buildBars() {
 }
 
 function renderBars() {
-  const n          = array.length;
-  const vizH       = viz.clientHeight;
-  const maxVal     = n; // values are 1..n
+  const n      = array.length;
+  const maxVal = n; // values are 1..n
 
   for (let i = 0; i < n; i++) {
-    const bar      = bars[i];
-    const v        = array[i];
-    const heightPx = Math.max(2, Math.round((v / maxVal) * (vizH - 4)));
+    const bar = bars[i];
+    const v   = array[i];
 
-    bar.style.height          = heightPx + 'px';
+    bar.style.transform       = 'scaleY(' + Math.max(0.005, v / maxVal) + ')';
     bar.style.backgroundColor = colorForValue(v);
 
     // Reset classes
