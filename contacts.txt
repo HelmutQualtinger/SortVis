@@ -1,6 +1,5 @@
                                            abuse@serverion.com
 Weathercloud                               account@weathercloud.net
-Facebook Ads Team                          advertise-noreply@support.facebook.com
                                            agb@info.login.muenchen.de
 crowdkickstarter                           airkey@crowdkickstarter.com
 Andreas Kylian                             akylian@aon.at
@@ -10,10 +9,8 @@ Pfeffer                                    andreas.pfeffer@aon.at
 Andreas Pfeffer                            andreas.pfeffer@schule.at
                                            android-bugs@qype.com
 Anny Arnold                                anny@arnoldz.ch
-Google Antigravity                         antigravity-noreply@google.com
                                            artur@thingsboard.io
 Armin u Steffi Erich                       as.erich@t-online.de
-Author                                     author@noreply.github.com
                                            barbapet70@gmail.com
 Fiebig Eva                                 billybetty@live.com
                                            blog+wnvqofrt@my.opera.com
@@ -24,14 +21,9 @@ Google Kalender                            calendar-notification@google.com
 Carl Beker                                 carlbeker@gmail.com
 Carl Beker                                 carlbeker@googlemail.com
 Christian Diry                             cd@bpww.at
-                                           charts@noreply.github.com
-Ci activity                                ci_activity@noreply.github.com
-Google Cloud Billing Alerts                cloudplatform-noreply@google.com
                                            csteinschlag@yahoo.de
 Airbnb                                     discover@airbnb.com
                                            dkanter@ubpartner.ch
-                                           docker-jitsi-meet@noreply.github.com
-Gravatar                                   donotreply@gravatar.com
 Dieter Sterle                              dsterle@epo.org
                                            dsterle@web.de
 Dwayne McDaniel                            dwayne.mcdaniel@gitguardian.com
@@ -40,16 +32,12 @@ Geocaching HQ                              email@update.geocaching.com
                                            epo@cigna.com
                                            ericsyuan@zoom.us
 Feargel Callan                             fcallan@epo.org
-Firebase                                   firebase-noreply@google.com
                                            franco.meddi@uniroma1.it
 hegerich-immobilen.de, Felix Uhl           fu@hegerich-immobilien.de
                                            gc@sinnesfr3un.de
 Kovarik Landeskliniken-Holding Gert        gert.kovarik@kpmg.co.at
 Lo Curto Gaspare                           glocurto@eso.org
 Ganna Olefirenko                           golefirenko@thingsboard.io
-Google Gemini                              google-gemini-noreply@google.com
-Google One                                 googleone-noreply@google.com
-Google Play                                googleplay-noreply@google.com
 Johannes Langer                            hannesi.langer@gmail.com
                                            harald@beker.nam
 Harald Beker                               harald@beker.name
@@ -87,8 +75,6 @@ Matus Michael                              matus@matus.at
 Maurizio CASTELLER                         mcasteller@gmail.com
 Hofbauer ms-e                              mdhofbauer@surfneteu.at
                                            mennerun@yahoo.fr
-LinkedIn                                   messages-noreply@linkedin.com
-                                           messaging-digest-noreply@linkedin.com
                                            mh26@imail.de
 Hugl Julia und Michael                     michael.hugl@gmx.at
 Michael from Cursor                        michael@mail.cursor.com
@@ -102,46 +88,14 @@ Microsoft                                  msa@communication.microsoft.com
 Neil Young                                 neilyoung@e.warnerrecords.com
 Neil Young Archives                        neilyoungarchives@e.warnerrecords.com
 Netdata referral program - powered by Cello netdata-referrals@cello.so
-Google                                     no-reply@accounts.google.com
-Spotify                                    no-reply@alerts.spotify.com
-Anaconda                                   no-reply@anaconda.com
-Evernote                                   no-reply@comms.evernote.com
-Samsung Community                          no-reply@eu.community.samsung.com
-GitHub                                     no-reply@github.com
-Kia Schweiz                                no-reply@info.kia.ch
-                                           no-reply@kundenservice.aldi-sued.de
-Netdata Cloud                              no-reply@netdata.cloud
-PayPal Communications                      no_reply@communications.paypal.com
-No-IP Password Reset                       noreply-35735639@noip.com
-Google Photos                              noreply-photos@google.com
-Trustpilot                                 noreply.notifications@trustpilot.com
-Meta                                       noreply@email.meta.com
-OpenAI                                     noreply@email.openai.com
-Microsoft Teams                            noreply@email.teams.microsoft.com
-Fing                                       noreply@fing.com
-Geocaching                                 noreply@geocaching.com
-GitHub                                     noreply@github.com
-Google Datenexport                         noreply@google.com
-Rechnungsstelle IONOS                      noreply@ionos.de
-Kia Schweiz AG                             noreply@kia.ch
-Kaspersky Account                          noreply@mail.account.uis.kaspersky.com
-                                           noreply@mail.my.kaspersky.com
-                                           noreply@mails.mvg.de
-                                           noreply@messaging.squareup.com
-                                           noreply@notifications.galaxus.ch
-Cloudflare                                 noreply@notify.cloudflare.com
-Weathercloud                               noreply@weathercloud.net
 Mayerhofer Thomas                          notar1.bruck@netway.at
 No-IP Notices                              notice-35735639@noip.com
 Anthropic Team                             notice@email.anthropic.com
 Wish                                       notification@wish.com
-LinkedIn                                   notifications-noreply@linkedin.com
 Discord                                    notifications@discord.com
                                            notifications@github.com
 Weathercloud                               notifications@weathercloud.net
-Google Notifications                       notify-noreply@google.com
 Norbert Preuss                             npreuss@t-online.de
-Google Payments                            payments-noreply@google.com
                                            pboesch@gmx.ch
 Netdata team                               product@netdata.cloud
 Quincy Larson                              quincy@freecodecamp.org
@@ -152,8 +106,6 @@ Roland Beker                               roland@beker.at
 Rosemarie Beker                            rose@beker.name
 Rothaemel Bernd                            rothaemel@grunecker.de
 Rupert Trampisch                           rupert.trampisch@at.netgrs.com
-                                           sa.noreply@notice.samsung-mail.com
-Samsung Account                            sa.noreply@samsung-mail.com
 Facebook                                   security@facebookmail.com
 GitGuardian                                security@getgitguardian.com
 Instagram                                  security@mail.instagram.com
