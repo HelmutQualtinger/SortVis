@@ -225,8 +225,8 @@
     #viz {
       flex: 1;
       display: flex;
-      align-items: stretch;
-      padding: 0 16px;
+      align-items: flex-end;
+      padding: 12px 16px 0;
       gap: 1px;
       overflow: hidden;
       position: relative;
@@ -234,8 +234,6 @@
 
     .bar {
       flex: 1;
-      height: 100%;
-      transform-origin: bottom center;
       border-radius: 2px 2px 0 0;
       transition: background-color .08s;
       min-width: 2px;
@@ -376,6 +374,7 @@ let swaps        = 0;
 let highlighted  = { comparing: [], swapping: [] };
 let sortedSet    = new Set();
 let done         = false;
+let vizHeight    = 0;
 
 const viz        = document.getElementById('viz');
 const statusEl   = document.getElementById('status');
@@ -438,6 +437,7 @@ function buildBars() {
   [...viz.querySelectorAll('.bar')].forEach(b => b.remove());
   bars = [];
   const n = array.length;
+  vizHeight = viz.clientHeight;
 
   for (let i = 0; i < n; i++) {
     const bar = document.createElement('div');
@@ -455,8 +455,9 @@ function renderBars() {
   for (let i = 0; i < n; i++) {
     const bar = bars[i];
     const v   = array[i];
+    const heightPx = Math.max(2, Math.round((v / maxVal) * (vizHeight - 4)));
 
-    bar.style.transform       = 'scaleY(' + Math.max(0.005, v / maxVal) + ')';
+    bar.style.height          = heightPx + 'px';
     bar.style.backgroundColor = colorForValue(v);
 
     // Reset classes
@@ -906,8 +907,8 @@ let resizeTimer;
 window.addEventListener('resize', () => {
   clearTimeout(resizeTimer);
   resizeTimer = setTimeout(() => {
-    if (!running) renderBars();
-    else          renderBars();
+    vizHeight = viz.clientHeight;
+    renderBars();
   }, 60);
 });
 
